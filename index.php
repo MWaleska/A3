@@ -49,7 +49,7 @@ session_start();
             echo "Olá, " . $_SESSION['nome'] . "<br><br>";
             if ($_SESSION['nome'] === 'administrador') {
                 ?>
-
+ <a href="lista.php"class = "d" >Lista de Usuários</a><br>
                 
                 <?php
             }
