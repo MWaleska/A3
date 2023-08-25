@@ -48,7 +48,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 
 body{
      font-family: Arial, Helvetica, sans-serif;
-     background-image: url(../WW/chuva.jpg);
+     background-image: url(.../WW/chuva.jpg);
      background-size: cover;
      background-position: center;
      display: flex;
